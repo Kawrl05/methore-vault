@@ -14,6 +14,7 @@ If a gamified format produces measurably better detection accuracy than a semina
 
 **Main design risk:** holding content exposure constant across conditions, since a game and a seminar differ in more than format. Matching both to the same set of red-flag examples controls for this as closely as a single-term design allows.
 
+**[[Connection to UN SDG 17]]**
 ## Related
 - [[Karl Overview]]
 - [[Karl Research Gap]]

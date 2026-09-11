@@ -1,0 +1,7 @@
+> *This topic advances SDG 17 by evaluating multi-stakeholder cybersecurity capacity-building. It supports Target 17.6 through collaborative research on training efficacy—comparing gamified simulations and traditional methods—and Targets 17.8 and 17.9 by strengthening awareness among graduating students facing employment fraud in digitalizing workforces. The resulting comparative evidence provides actionable insights for global institutions to guide sustainable technology adoption.*
+
+**Simple Words Version**
+- Sharing Knowledge (Target 17.6): The research creates  real proof about effective training methods and lets us share these best practices with other schools and organizations.
+- Boosting Online Safety Skills (Target 17.8): It helps people and schools build stronger cybersecurity skills, which is essential as developing regions quickly connect to the digital world.
+- Building Teamwork and Partnerships (Target 17.g/17.16): It brings together schools, cybersecurity experts, researchers, and students to work as partners on a common goal.
+- Protecting Students from Scams: It offers direct protection for graduating students who are often targeted by fake job offers and recruitment scams as they enter the workforce.
